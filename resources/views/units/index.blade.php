@@ -28,7 +28,7 @@
     </tbody>
     <style>
         .table{
-            font-size: 20px;
+            font-size: 18px;
         }
         .all{
             margin-top: 50px;

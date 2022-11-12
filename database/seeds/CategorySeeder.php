@@ -13,25 +13,22 @@ class CategorySeeder extends Seeder
     {
         $data = [
             [
-                'category'=>'Junk Foods',
-                'description'=>'This stands as the Junk Food category.'
+                'category'=>'Noodles',
+                'description'=>'This stands as the Noodles category.'
             ],
             [
-                'category'=>'Bar Soap',
-                'description'=>'This stands as the Bar Soap category.'
+                'category'=>'Surf Bar',
+                'description'=>'This stands as the Surf Bar category.'
             ],
             [
-                'category'=>'Powder',
-                'description'=>'This stands as the Powder category.'
+                'category'=>'Tide Powder',
+                'description'=>'This stands as the Tide Powder category.'
             ],
             [
-                'category'=>'Toothpaste',
-                'description'=>'This stands as the Toothpaste category.'
+                'category'=>'Can Goods',
+                'description'=>'This stands as the Can Goods category.'
             ],
-            [
-                'category'=>'Paracetamol',
-                'description'=>'This stands as the Paracetamol category.'
-            ],
+
         ];
 
         foreach($data as $categories) {

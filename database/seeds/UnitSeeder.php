@@ -24,14 +24,8 @@ class UnitSeeder extends Seeder
                 'unit_type'=>'gram(s)',
                 'description'=>'This stands as the gram unit.'
             ],
-            [
-                'unit_type'=>'meter(s)',
-                'description'=>'This stands as the meter unit.'
-            ],
-            [
-                'unit_type'=>'centimeter(s)',
-                'description'=>'This stands as the centimeter unit.'
-            ],
+
+
         ];
 
         foreach($data as $units) {
